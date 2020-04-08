@@ -1,7 +1,6 @@
 theme: jekyll-theme-minimal 
 logo: /assets/img/logo.png
-title: "Ďakujeme dobrovoľníkom"
-description: "Zoznam dobrovoľníkov ktorí pomáhali pri tvorbe covid.chat"
+title: "covid.chat"
 
 github:
   is_project_page: false
