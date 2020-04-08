@@ -3,7 +3,8 @@ title: "Tag"
 layout: "tag"
 ---
 Vloženie do stránky vo forme vyskakovacieho modulu. Skopírujte a vložte tento kód do &lt;head&gt; tagu každej stránky na ktorej chcete mať covid.chat 
-- <button onclick="showPopup()">Ukážka</button>
+
+<button onclick="showPopup()">Ukážka</button>
 
 <pre>&lt;script&gt;
 window.bChat = {
@@ -30,8 +31,9 @@ window.bChat = {
 </pre>
 
 Druhá možnosť: Vloženie do stránky vo forme banera (odporúčaná výška minimálne 430px) 
-- <button onclick="showSampleSource()">Zobraziť</button> 
-- <button onclick="showSample()">Ukážka</button>
+
+<button onclick="showSampleSource()">Zobraziť</button> 
+<button onclick="showSample()">Ukážka</button>
 
 <div id="sample"></div>
 <pre id="sample-source" style="display:none">&lt;iframe
