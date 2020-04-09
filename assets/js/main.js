@@ -27,6 +27,12 @@ function showSample() {
         "    src=\"https://covid.chat/chat/?history=0&ref=welcome\"></iframe>";
 }
 
+function showSampleCustom(url,height) {
+    document.getElementById("sample").innerHTML = "<iframe\n" +
+        "    style=\"border:0;width:100%;height:"+height+"px;\"\n" +
+        "    src=\"" + url + "\"></iframe>";
+}
+
 function showSampleSource() {
     document.getElementById("sample-source").style.display = 'block';
 }
