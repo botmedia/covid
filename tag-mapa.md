@@ -13,8 +13,17 @@ pre konkrétne mesto pridajte za <strong>/embed</strong> <strong>/city-[názov m
 style="border:0;width:100%;height:500px;display:block"
 src="https://mapa.covid.chat/embed/city-Banska%20Bystrica"&gt;&lt;/iframe&gt;</pre>
 
-pre tabuľku miest <strong>/table</strong> a pre grafy <strong>/chart</strong> alebo <strong>/chart/daily</strong> napríklad:
+pre tabuľku miest <strong>/table</strong> napríklad:
 
 <pre>&lt;iframe
 style="border:0;width:100%;height:300px;display:block"
 src="https://mapa.covid.chat/table"&gt;&lt;/iframe&gt;</pre>
+
+pre grafy <strong>/chart</strong> alebo <strong>/chart/daily</strong> napríklad:
+
+<pre>&lt;iframe
+style="border:0;width:100%;height:300px;display:block"
+src="https://mapa.covid.chat/chart"&gt;&lt;/iframe&gt;</pre>
+
+
+[_Späť na mapa.covid.chat_](https://mapa.covid.chat)
