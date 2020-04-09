@@ -1,6 +1,6 @@
 ---
 title: "Tag"
-layout: "tag"
+layout: "default"
 ---
 Vloženie do stránky vo forme vyskakovacieho modulu. Skopírujte a vložte tento kód do &lt;head&gt; tagu každej stránky na ktorej chcete mať covid.chat 
 
