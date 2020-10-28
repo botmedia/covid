@@ -22,7 +22,7 @@ style="border:0;width:100%;height:300px;display:block"
 src="https://mapa.covid.chat/table"&gt;&lt;/iframe&gt;</pre>
 <button onclick="showSampleCustom('https://mapa.covid.chat/table', 300)">Ukážka</button>
 
-pre grafy <strong>/chart</strong> alebo <strong>/chart/daily</strong> napríklad:
+pre grafy <strong>/chart</strong>, <strong>/chart/median</strong> alebo <strong>/chart/daily</strong> napríklad:
 
 <pre>&lt;iframe
 style="border:0;width:100%;height:300px;display:block"
